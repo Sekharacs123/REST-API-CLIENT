@@ -18,3 +18,7 @@ Features:Real-time Weather Data,Structured Output,JSON Parsing,Location Specific
 
 Technologies Used:
 Java version "23" 2024-09-17,VS Code: IDE for writing and debugging code,OpenWeatherMap API: For fetching weather data,org.json library: For parsing JSON responses.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/03680fd9-aeb1-4ac7-b405-4f5c4b0b90a1)
