@@ -20,6 +20,7 @@ Real-time Weather Data: Fetches up-to-date weather information for Visakhapatnam
 Structured Output: Presents the weather data in a clear and easy-to-read format.
 JSON Parsing: Handles HTTP requests and parses JSON responses from the API.
 Location Specific: Designed to retrieve data specifically for Visakhapatnam.
+
 Technologies Used:
 
 Java version "23" 2024-09-17
